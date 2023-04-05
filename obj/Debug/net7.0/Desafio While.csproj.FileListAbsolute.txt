@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\Desafio While\bin\Debug\net7.0\Desafio While.exe
+C:\Users\45922978810\Desktop\Desafio While\bin\Debug\net7.0\Desafio While.deps.json
+C:\Users\45922978810\Desktop\Desafio While\bin\Debug\net7.0\Desafio While.runtimeconfig.json
+C:\Users\45922978810\Desktop\Desafio While\bin\Debug\net7.0\Desafio While.dll
+C:\Users\45922978810\Desktop\Desafio While\bin\Debug\net7.0\Desafio While.pdb
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.dll
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\refint\Desafio While.dll
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.pdb
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\Desafio While.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Desafio While\obj\Debug\net7.0\ref\Desafio While.dll
